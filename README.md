@@ -3,6 +3,7 @@
 
 
 #:moneybag::hotel:NodeHotel:hotel::moneybag:
+
 :money_with_wings::moneybag::fire::rocket::rocket::fire::moneybag::money_with_wings:[NodeHotel.finance](https://www.NodeHotel.finance) :money_with_wings::moneybag::fire::rocket::rocket::rocket::rocket::rocket::fire::moneybag::money_with_wings:
 
 ![logo](./assets/logo.png)
